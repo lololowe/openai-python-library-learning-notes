@@ -1,3 +1,5 @@
+**博客原文：** https://blog.lololowe.com/posts/d959/
+
 # 安装 OpenAI Python 库
 
 需要 Python 3.7+ 版本的支持：https://www.python.org/downloads/
